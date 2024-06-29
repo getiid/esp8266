@@ -12,4 +12,4 @@ Mac OS 下的Arduino安装esp8266扩展
 
 使用这样的办法安装起来很慢，我想应该是github国内的墙的原因，所以我这个地址先进行替换
 
-天上这个地址：https://raw.githubusercontent.com/getiid/esp8266/main/package_spacehuhn_index.json
+贴上这个地址：https://raw.githubusercontent.com/getiid/esp8266/main/package_spacehuhn_index.json

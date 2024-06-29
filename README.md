@@ -10,6 +10,10 @@ Mac OS 下的Arduino安装esp8266扩展
 
 <img width="1120" alt="image" src="https://github.com/getiid/esp8266/assets/8535017/1e7c6ac4-3fcc-4d53-af18-5cf2737275f4">
 
-使用这样的办法安装起来很慢，我想应该是github国内的墙的原因，所以我这个地址先进行替换
+### 使用这样的办法安装起来很慢，我想应该是github国内的墙的原因，所以我这个地址先进行替换
 
 贴上这个地址：https://raw.githubusercontent.com/getiid/esp8266/main/package_spacehuhn_index.json
+
+### 第一次安装完成之后再贴回原作者的地址。这样就会多两个插件出来。
+
+感谢原作者：[SpacehuhnTech](https://github.com/SpacehuhnTech/esp8266_deauther)
